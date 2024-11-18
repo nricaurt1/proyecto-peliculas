@@ -1,7 +1,7 @@
 export const PeliAdmin = () => {
 	return (
 		<>
-			Soy el Película Administrador <br/>
+			Administrar <br/>
 		</>
 	)
 }

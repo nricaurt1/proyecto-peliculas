@@ -7,7 +7,7 @@ export const Cabecera = () => {
             <nav className="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
                 <nav className="navbar navbar-expand-lg bg-body-tertiary">
                     <div className="container-fluid">
-                        <a className="navbar-brand" href="#">Navbar</a>
+                        <a className="navbar-brand" href="#"><img src={logo} alt="" /></a>
                         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div className="navbar-nav">
                                 <NavLink className="nav-item nav-link active" aria-current="page" to="/">Inicio</NavLink>
